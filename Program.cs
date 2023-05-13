@@ -6,7 +6,8 @@ namespace NshanApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Nsh!");
+            Console.WriteLine("Austria"); 
         }
     }
 }
